@@ -2,6 +2,8 @@
 
 Wonder and Victory splash screens for [Unciv](https://github.com/yairm210/UnCiv).
 
+![Preview](preview.png)
+
 ## Installation
 
 1. Search for "Screens"
