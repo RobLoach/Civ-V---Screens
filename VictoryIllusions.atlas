@@ -1,0 +1,138 @@
+
+VictoryIllusions.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+VictoryIllustrations/Diplomatic/Background
+  rotate: false
+  xy: 4, 1084
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Cultural/Background
+  rotate: false
+  xy: 4, 1084
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Domination/Background
+  rotate: false
+  xy: 4, 1084
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Religious/Background
+  rotate: false
+  xy: 4, 1084
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Scientific/Background
+  rotate: false
+  xy: 4, 1084
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Time/Background
+  rotate: false
+  xy: 4, 1084
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Diplomatic/Lost
+  rotate: false
+  xy: 4, 544
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Cultural/Lost
+  rotate: false
+  xy: 4, 544
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Domination/Lost
+  rotate: false
+  xy: 4, 544
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Religious/Lost
+  rotate: false
+  xy: 4, 544
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Scientific/Lost
+  rotate: false
+  xy: 4, 544
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Time/Lost
+  rotate: false
+  xy: 4, 544
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Diplomatic/Won
+  rotate: false
+  xy: 968, 1084
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Domination/Won
+  rotate: false
+  xy: 968, 4
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Scientific/Won
+  rotate: false
+  xy: 4, 4
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Time/Won
+  rotate: false
+  xy: 968, 544
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+
+VictoryIllusions2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+VictoryIllustrations/Cultural/Won
+  rotate: false
+  xy: 968, 4
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Religious/Won
+  rotate: false
+  xy: 4, 4
+  size: 956, 532
+  orig: 956, 532
+  offset: 0, 0
+  index: -1

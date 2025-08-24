@@ -1,8 +1,4 @@
 {
-    "modUrl":"https://github.com/RobLoach/Civ-V---Screens",
-    "defaultBranch":"main",
-    "author":"RobLoach",
-    "topics":["unciv-mod","unciv-mod-graphics"],
     "uniques": [
         "Should only be used as permanent audiovisual mod"
     ]
